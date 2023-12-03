@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    min-height: 100vh;
+    min-width: 100vw;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+.dark {
+    background-color: black;
+    color: white;
+}
